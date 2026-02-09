@@ -16,3 +16,10 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+### ⚡ About Me
+
+- 🎂 I'm **17 years old**.
+- 📚 Huge fan of **Fantasy Books** (reading George R.R. Martin right now).
+- 🐉 I love getting lost in fictional universes.
+- 💻 Coding games with **Unity** & **C#** whenever I can.
