@@ -1,10 +1,10 @@
-## Hi there! I'm Ahmet Eren 👋
+# Hi there! I'm Ahmet Eren 👋
 
 - 🎓 I'm a High School Student studying IT / Software.
 - 💻 I’m currently learning **C#, Unity and Algorithms**.
 - 🎮 Passionate about Game Development.
 - 📫 Contact me: koseahmeteren14@gmail.com
-## 🛠️ Languages & Tools
+# 🛠️ Languages & Tools
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -17,7 +17,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-## ⚡ About Me
+# ⚡ About Me
 
 - 🎂 I'm **17 years old**.
 - 📚 Huge fan of **Fantasy Books** (reading George R.R. Martin right now).
